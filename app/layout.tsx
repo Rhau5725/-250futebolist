@@ -6,7 +6,7 @@ const display = Barlow_Condensed({ variable: "--font-display", subsets: ["latin"
 const sans = DM_Sans({ variable: "--font-sans", subsets: ["latin"], weight: ["400", "500", "600", "700"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://250futebol.sites.openai.com"),
+  metadataBase: new URL("https://eu-quero-que-voc-crie-o-4.vercel.app"),
   title: "Futebol em Jogo — +250 dinâmicas infantis",
   description: "+250 atividades visuais para criar treinos infantis inesquecíveis.",
   icons: { icon: "/favicon.svg" },
